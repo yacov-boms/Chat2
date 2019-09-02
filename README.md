@@ -19,5 +19,5 @@ In response to a users query:
 •	Ceates a TfIdf table 
 •	Checks cosine similarity between the query and each of the file's sentences 
   (it is a simple method that outperforms more advanced algorithms for small datadets)
-•	Picks the best similar sentence and sends it to the user
+•	Picks the best similar sentence and sends it to the user.
 
