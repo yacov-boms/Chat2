@@ -115,9 +115,3 @@ if __name__ == '__main__':
 
 
 
-#import pandas as pd
-#a = TfidfVec.get_feature_names()
-#print(tfidf.toarray())
-#print(pd.DataFrame(tfidf.toarray(),columns=TfidfVec.get_feature_names())) 
-
-
